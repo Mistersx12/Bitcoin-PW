@@ -42,4 +42,4 @@ npm install</code></pre>
 
 <h2>License</h2>
 
-<p>Do what you want!</p>
+<p>The Bitcoin Privacy Wallet is released under the MIT license. See <a href="https://de.wikipedia.org/wiki/WTFPL">LICENSE</a> for more information.</p>
