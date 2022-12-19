@@ -3,7 +3,7 @@ import hashlib
 import requests
 
 # Lightning Network constants
-LIGHTNING_NETWORK_URL = "https://api.lightning.network/api"
+LIGHTNING_NETWORK_URL = "lightning://6quf5upomo5tbrefwtpbt5ahujhgffidaohyiog4gnpr5bst23izzoyd.onion:9735"
 
 # CoinJoin constants
 COINJOIN_SERVER_URL = "https://coinjoin.example.com/api"
